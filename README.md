@@ -6,10 +6,10 @@
 ## Game Overview
 &nbsp;&nbsp;&nbsp;&nbsp;Sword Idle allows players to immerse themselves in a thrilling idle experience, focusing on upgrading swords and maximizing scores.
 <div>
-<img src="./resources/Screenshots/Progress1.png" alt="Waiting For Screenshots" width="320"/>
-<img src="./resources/Screenshots/Progress4.png" alt="Waiting For Screenshots" width="320"/>
-<img src="./resources/Screenshots/Progress5.png" alt="Waiting For Screenshots" width="320"/>
-<img src="./resources/Presentation.png" alt="Waiting For Screenshots" width="970"/>
+<img src="./resources/Screenshots/Progress1.png" alt="Waiting For Screenshots" width="220"/>
+<img src="./resources/Screenshots/Progress4.png" alt="Waiting For Screenshots" width="220"/>
+<img src="./resources/Screenshots/Progress5.png" alt="Waiting For Screenshots" width="220"/>
+<img src="./resources/Presentation.png" alt="Waiting For Screenshots" width="670"/>
 </div>
 
 ## Key Features
