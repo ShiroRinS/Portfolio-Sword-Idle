@@ -32,8 +32,15 @@
 
 - **Order Swords by Appeal**: I created a system to categorize and order the swords based on their visual appeal and gameplay attributes. This involved selecting unique designs and characteristics that resonate with players, enhancing the game’s overall aesthetics and engagement. ![Waiting For Screenshots]()
 - **Develop Functionality**: I implemented core game functionality, including the mechanics for swinging swords and earning scores. This required writing scripts in GD Script and thoroughly testing each feature to ensure they worked as intended.
-- **Implement Save/Load System**: To enhance user experience, I developed a save/load system that allowed players to retain their progress. This feature was crucial for maintaining player engagement and ensuring they could return to the game without losing achievements.
-- 
+  
+- **Implement Save/Load System**: To enhance user experience, I developed a save/load system that allowed players to retain their progress. This feature was crucial for maintaining player engagement and ensuring they could return to the game without losing achievements. To prevent players from altering the save data and potentially exploiting the game, I implemented **encryption** using a password mechanism from Godot, ensuring that player data remained secure and protected from unauthorized access.
+<div>
+  <p><b>Save Function</b></p>
+<img src="./resources/Functions Code/SaveFunctionCode.png" alt="Waiting For Screenshots">
+  <p><b>Load Function</b></p>
+<img src="./resources/Functions Code/LoadFunctionCode.png" alt="Waiting For Screenshots" width="669">
+</div>
+
 - **Design UX/UI**: I focused on creating an intuitive user experience (UX) and user interface (UI) that guides players seamlessly through the game. This involved designing menus, buttons, and in-game prompts that are visually appealing and easy to navigate. Also, I made a responsive UI that seamlessly adapts to various mobile device screens, ensuring a consistent and optimized user experience across all resolutions.
 
 <div>
