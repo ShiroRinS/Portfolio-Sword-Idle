@@ -45,7 +45,7 @@
 <img src="./resources/Functions Code/SetUpLabelFunction.png" alt="Display Data on UI Function" width="600">
 </div>
 
-- **Design UX/UI**: I focused on creating an intuitive user experience (UX) and user interface (UI) that guides players seamlessly through the game. This involved designing menus, buttons, and in-game prompts that are visually appealing and easy to navigate. Also, I made a responsive UI that seamlessly adapts to various mobile device screens, ensuring a consistent and optimized user experience across all resolutions.
+- **Design UX/UI**: I focused on creating an intuitive user experience (UX) and user interface (UI). This involved designing menus, buttons, and in-game prompts that are visually appealing and easy to navigate. Some elements have been created using assets sourced from asset stores. Also, I made a responsive UI that seamlessly adapts to various mobile device screens, ensuring a consistent and optimized user experience across all resolutions.
 
 <div>
 <img src="./resources/UI/UIScreenshot.png" alt="UI" width="300">
